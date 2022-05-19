@@ -53,6 +53,7 @@ nav{
 
 nav > a{
     color:#fff;
+    font-size: 15px;
     font-family: 'Zen Loop', cursive;
     font-weight: 300;
     text-decoration: none;
@@ -296,9 +297,12 @@ footer{
 
     nav > a{
         margin-right: 5px;
+        font-family: 'Shadows Into Light', cursive;
+        letter-spacing: 2px;
+        font-size: 35px;
     }
 
-    .textos-header h1{
+    /*.textos-header h1{
         font-family: 'Shadows Into Light', cursive;
         letter-spacing: 2px;
         font-size: 35px;
@@ -308,7 +312,7 @@ footer{
         font-size: 20px;
         letter-spacing: 2px;
     }
-
+*/
     /* ABOUT US */
 
     .imagen-about-us{

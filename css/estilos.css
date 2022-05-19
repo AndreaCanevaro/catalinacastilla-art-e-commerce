@@ -71,18 +71,18 @@ header .textos-header{
     flex-direction: column;
     text-align: center;
 }
-
-.textos-header a h1{
-    font-size: 30px;
-    color:#fff;
+.textos-header a{
     text-decoration: none;
 }
+.textos-header h1{
+    font-size: 30px;
+    color:#fff;
+}
 
-.textos-header a h2{
+.textos-header h2{
     font-size: 15px;
     font-weight: 300;
     color:#fff;
-    text-decoration: none;
 }
 
 .wave{

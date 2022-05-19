@@ -72,13 +72,13 @@ header .textos-header{
     text-align: center;
 }
 
-.textos-header h1{
+.textos-header a h1{
     font-size: 30px;
     color:#fff;
     text-decoration: none;
 }
 
-.textos-header h2{
+.textos-header a h2{
     font-size: 15px;
     font-weight: 300;
     color:#fff;

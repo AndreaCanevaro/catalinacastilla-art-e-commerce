@@ -53,6 +53,7 @@ nav{
 
 nav > a{
     color:#fff;
+    font-family: 'Zen Loop', cursive;
     font-weight: 300;
     text-decoration: none;
     margin-right: 10px;
@@ -165,7 +166,7 @@ main .sobre-nosotros{
     height: 100%;
     top: 0;
     transform: scale(0);
-    background: hsla(273,91%,27%, 0.7);
+    background: rgba(252, 252, 253, 0.97);
     transition: transform .5s;
     display: flex;
     justify-content: center;
@@ -178,7 +179,7 @@ main .sobre-nosotros{
 }
 
 .hover-galeria p{
-    color: #fff;
+    color: rgb(24, 24, 24);
 }
 
 .imagen-port:hover .hover-galeria{
@@ -298,11 +299,14 @@ footer{
     }
 
     .textos-header h1{
+        font-family: 'Shadows Into Light', cursive;
+        letter-spacing: 2px;
         font-size: 35px;
     }
 
     .textos-header h2{
         font-size: 20px;
+        letter-spacing: 2px;
     }
 
     /* ABOUT US */

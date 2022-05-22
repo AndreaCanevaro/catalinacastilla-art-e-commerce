@@ -46,9 +46,9 @@ nav{
 
 nav > a{
     color:rgb(7, 7, 7);
-    font-size: 15px;
+    font-size: 25px;
     font-family: 'Zen Loop', cursive;
-    font-weight: 300;
+    font-weight: 500;
     text-decoration: none;
     margin-right: 10px;
 }
@@ -213,10 +213,6 @@ footer{
     margin-bottom: 10px;
 }
 
-.content-foo p{
-    color: #ccc;
-}
-
 .titulo-final{
     text-align: center;
     font-size: 24px;
@@ -352,12 +348,6 @@ footer{
 
     .content-foo h4{
         border: none;
-    }
-
-    .content-foo p{
-        color: #ccc;
-        border-bottom: 1px solid #f2f2f2;
-        padding-bottom: 20px;
     }
 
     .titulo-final{

@@ -369,6 +369,16 @@ footer{
 .py-5{
     font-family: Arial, Helvetica, sans-serif;
 }
-.comments{
-    
+.contact-header{
+    text-align: center!important;
+    padding-top: 3rem!important;
+    padding-bottom: 3rem!important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.contact-label{
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+    width: 60%;
 }

@@ -382,3 +382,6 @@ footer{
     flex-basis: auto;
     width: 60%;
 }
+.contact-button{
+    width: 60%!important;
+}

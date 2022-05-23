@@ -17,14 +17,15 @@ body {
 }
 .titulo {
     color: #150347;
-    font-size: 20px;
+    font-size: 25px;
     font-family: 'Shadows Into Light', cursive;
+    font-weight: 800;
     text-align: center;
     margin-bottom: 60px;
     margin-top: 60px;
 }
 .titulof {
-    color: #faf7fa;
+    color: #0b0124;
     font-size: 15px;
     font-weight: 800;
     text-align: center;
@@ -195,14 +196,14 @@ footer{
 
 .content-foo i{
     color: white;
-    size: 8rem;
+    size: 20rem;
 }
 
 .titulo-final{
     text-align: center;
     font-size: 20px;
     margin: 20px 0 0 0;
-    color: #f7f4f4;
+    color: #060606;
 }
 
 @media screen and (max-width:900px){

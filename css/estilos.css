@@ -26,6 +26,7 @@ body {
 .titulof {
     color: #faf7fa;
     font-size: 15px;
+    font-weight: 800;
     text-align: center;
     margin-bottom: 60px;
     text-decoration: none;
@@ -194,7 +195,7 @@ footer{
 
 .content-foo i{
     color: white;
-    size: 3rem;
+    size: 8rem;
 }
 
 .titulo-final{
@@ -336,6 +337,7 @@ footer{
 
     .titulo-final{
         font-size: 20px;
+        color: black;
     }
 }
 

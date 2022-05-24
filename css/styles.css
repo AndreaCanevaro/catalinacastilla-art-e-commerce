@@ -368,15 +368,29 @@ footer{
 .contact-button{
     width: 60%!important;
 }
+
+
+/*   PORTADA   */
 .portada{
     background: url(../img/fondo.png);
-    height: 100%;
+    height: 150px;
+    width: 150px;
+    display: table;
+    float: left;
 }
 .portada-inner{
    /*  height: 100%;
-   display: flex;
+    display: flex;
+    align-items: center;
     justify-content: center;
-    align-items: center;*/
     display: inline-block;
+    vertical-align: middle;*/
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.portada-inner img{
+    max-width: 150px;
+    max-height: 150px;
     vertical-align: middle;
 }

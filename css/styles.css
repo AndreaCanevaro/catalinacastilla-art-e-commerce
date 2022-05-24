@@ -374,16 +374,7 @@ footer{
 .portada{
     background: url(../img/fondo.png);
 }
-/*.portada-inner{
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    display: inline-block;
-    vertical-align: middle;
-    top: 50%;
-}*/
-.portada-inner a{
+.d-block{
     vertical-align: middle;
     display: inline-block;
     position: relative;

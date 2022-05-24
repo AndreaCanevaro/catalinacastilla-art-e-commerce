@@ -368,3 +368,6 @@ footer{
 .contact-button{
     width: 60%!important;
 }
+.portada{
+    background: url(../img/fondo.png);
+}

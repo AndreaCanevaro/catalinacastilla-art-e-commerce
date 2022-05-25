@@ -389,6 +389,7 @@ footer{
     text-decoration: none;
     color: #f2f2f2;
     font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
 }
 .portada-ingrese a:hover{
     color: #050505;

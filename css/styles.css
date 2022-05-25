@@ -373,10 +373,20 @@ footer{
 /*   PORTADA   */
 .portada{
     background: url(../img/fondo.png);
-    margin-top: 15%;
+    margin-top: 17%;
 }
 .d-block{
     vertical-align: middle;
     display: inline-block;
     position: relative;
+}
+.portada-ingrese{
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    color: #f2f2f2;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.portada-ingrese a{
+    text-decoration: none;
 }

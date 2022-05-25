@@ -373,7 +373,7 @@ footer{
 /*   PORTADA   */
 .portada{
     background: url(../img/fondo.png);
-    margin-top: 25%;
+    margin-top: 20%;
 }
 .d-block{
     vertical-align: middle;

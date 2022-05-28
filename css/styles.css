@@ -80,6 +80,7 @@ nav > a:hover{
     text-decoration: none;
 }
 
+*/
 header .textos-header{
     display: flex;
     height: 430px;
@@ -92,6 +93,7 @@ header .textos-header{
 .textos-header a{
     text-decoration: none;
 }
+
 .textos-header h1{
     font-size: 30px;
     color:#fff;
@@ -99,18 +101,19 @@ header .textos-header{
     letter-spacing: 2px;
     font-size: 35px;
 }
-
 .textos-header h2{
     font-size: 15px;
     font-weight: 300;
     color:#fff;
 }
-
 .wave{
     position: absolute;
     bottom: 0;
     width: 100%;
-}*/
+}
+
+
+/*Header nuevo*/
 .navbar {
     background-color: #fbfcfd;
     position: relative;
@@ -138,7 +141,7 @@ header .textos-header{
     margin-left: auto;
 }
 .navbar-dark .navbar-brand {
-    color: #fff;
+    color: rgb(5, 5, 5);
 }
 .navbar-brand {
     padding-top: 0.3125rem;
@@ -208,7 +211,7 @@ button {
     align-items: flex-start;
     cursor: default;
     box-sizing: border-box;
-    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    background-color: -internal-light-dark(rgb(9, 9, 9), rgb(59, 59, 59));
     margin: 0em;
     padding: 1px 6px;
     border-width: 2px;
